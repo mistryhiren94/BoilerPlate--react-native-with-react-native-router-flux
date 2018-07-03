@@ -1,0 +1,3 @@
+rootProject.name = 'Base_flux'
+
+include ':app'
